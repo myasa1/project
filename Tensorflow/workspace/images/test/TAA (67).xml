@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>TAA (67).JPG</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\TAA (67).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ت</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>20</ymin>
+			<xmax>40</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>AIN (106).jpg</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\AIN (106).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ع</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>29</ymin>
+			<xmax>63</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

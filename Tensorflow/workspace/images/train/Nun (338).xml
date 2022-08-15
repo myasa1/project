@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Nun (338).jpg</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\Nun (338).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ن</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>5</ymin>
+			<xmax>54</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

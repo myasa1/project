@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ZAY (59).JPG</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\ZAY (59).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ز</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>22</ymin>
+			<xmax>56</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

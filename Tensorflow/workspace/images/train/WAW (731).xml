@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WAW (731).jpg</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\WAW (731).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>و</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>27</ymin>
+			<xmax>61</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

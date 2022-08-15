@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>DHAD (354).jpg</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\DHAD (354).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ض</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>21</ymin>
+			<xmax>58</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

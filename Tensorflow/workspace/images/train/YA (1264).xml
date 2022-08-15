@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>YA (1264).jpg</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\YA (1264).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ئ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>23</ymin>
+			<xmax>55</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>

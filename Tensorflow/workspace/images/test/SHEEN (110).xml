@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>SHEEN (110).JPG</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\SHEEN (110).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ش</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>5</ymin>
+			<xmax>59</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>HA (1590).jpg</filename>
+	<path>C:\Users\user\Documents\RealTimeObjectDetection\Tensorflow\workspace\images\HA (1590).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ھ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>19</ymin>
+			<xmax>59</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

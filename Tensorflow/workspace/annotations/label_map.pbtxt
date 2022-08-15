@@ -1,0 +1,128 @@
+item { 
+	name:أ
+	id:1
+}
+item { 
+	name:ال
+	id:2
+}
+item { 
+	name:ب
+	id:3
+}
+item { 
+	name:ة
+	id:4
+}
+item { 
+	name:ت
+	id:5
+}
+item { 
+	name:ث
+	id:6
+}
+item { 
+	name:ج
+	id:7
+}
+item { 
+	name:ح
+	id:8
+}
+item { 
+	name:خ
+	id:9
+}
+item { 
+	name:د
+	id:10
+}
+item { 
+	name:ذ
+	id:11
+}
+item { 
+	name:ر
+	id:12
+}
+item { 
+	name:ز
+	id:13
+}
+item { 
+	name:س
+	id:14
+}
+item { 
+	name:ش
+	id:15
+}
+item { 
+	name:ص
+	id:16
+}
+item { 
+	name:ض
+	id:17
+}
+item { 
+	name:ط
+	id:18
+}
+item { 
+	name:ظ
+	id:19
+}
+item { 
+	name:ع
+	id:20
+}
+item { 
+	name:غ
+	id:21
+}
+item { 
+	name:ف
+	id:22
+}
+item { 
+	name:ق
+	id:23
+}
+item { 
+	name:ك
+	id:24
+}
+item { 
+	name:ل
+	id:25
+}
+item { 
+	name:لا
+	id:26
+}
+item { 
+	name:م
+	id:27
+}
+item { 
+	name:ن
+	id:28
+}
+item { 
+	name:و
+	id:29
+}
+item { 
+	name:ھ
+	id:30
+}
+item { 
+	name:ي
+	id:31
+}
+item { 
+	name:ئ
+	id:32
+}
